@@ -1,6 +1,6 @@
 {
   "name": "bookable",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "bookable connector",
   "repository": "bookableio/x-bookable.git",
   "author": "bookable <contact.bookable@gmail.com>",
